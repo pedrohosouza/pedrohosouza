@@ -1,8 +1,11 @@
 # Hi there, I'm Pedro Souza 👋
 
-### Software Engineer | DevOps Enthusiast
+### Software Engineer | Backend & DevOps Enthusiast
 
-I am a software developer focused on building scalable applications and efficient infrastructure. I specialize in modern backend architectures and automating deployment workflows.
+I am a software developer focused on building robust backend architectures and scalable infrastructure. I specialize in server-side efficiency, automation workflows (RPA), and streamlining deployment processes.
+
+- ⚙️ **Core Focus:** Backend Development, Infrastructure, and Automation.
+- 🎨 **Secondary Skills:** Proficient in modern Frontend frameworks for fullstack delivery.
 
 ---
 
@@ -29,6 +32,12 @@ I am a software developer focused on building scalable applications and efficien
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Automation & RPA**
+
+![N8N](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 
 **Version Control**
 
